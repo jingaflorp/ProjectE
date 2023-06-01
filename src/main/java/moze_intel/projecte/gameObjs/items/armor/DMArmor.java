@@ -17,7 +17,7 @@ public class DMArmor extends PEArmor {
 
 	@Override
 	public float getFullSetBaseReduction() {
-		return 0.8F;
+		return 0.5F;
 	}
 
 	@Override
